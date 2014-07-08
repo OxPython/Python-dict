@@ -38,5 +38,6 @@ print(d)
 
 #Creating a dict using {} and method dict()
 d = dict({'three': 3, 'one': 1, 'two': 2})
+print(d)
 
 
