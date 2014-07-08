@@ -3,7 +3,7 @@ Created on Jul 2, 2014
 
 @author: viejoemer
 
-How to create a dictionary in Python?
+HowTo create a dictionary in Python?
 
 ¿Cómo crear un diccionario en Python?
 
